@@ -1,0 +1,674 @@
+2025.07.25 15:55:54 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:11 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala
+2025.07.25 15:56:11 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:56:15 INFO  Running List(/opt/homebrew/bin/scala, setup-ide, /Users/pedro.magalhaes/Desktop/Cursor Workspace)
+2025.07.25 15:56:16 INFO  Attempting to connect to the build server...
+2025.07.25 15:56:16 INFO  Running BSP server List(/opt/homebrew/Cellar/scala/3.6.4/libexec/libexec/scala-cli.jar, --cli-default-scala-version, 3.6.4, --repository, file:///opt/homebrew/Cellar/scala/3.6.4/libexec/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/pedro.magalhaes/Desktop/Cursor Workspace/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/pedro.magalhaes/Desktop/Cursor Workspace/.scala-build/ide-launcher-options.json, --envs-file, /Users/pedro.magalhaes/Desktop/Cursor Workspace/.scala-build/ide-envs.json, /Users/pedro.magalhaes/Desktop/Cursor Workspace)
+2025.07.25 15:56:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/bsp.trace.json or /Users/pedro.magalhaes/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.07.25 15:56:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.5/bloop-frontend_2.12-2.0.5.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.5/bloop-frontend_2.12-2.0.5.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/libdaemon_2.12/0.0.12/libdaemon_2.12-0.0.12.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.12/logback-classic-1.5.12.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.5/bloop-shared_2.12-2.0.5.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.1.0/bloop-config_2.12-2.1.0.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.1/scala-debug-adapter_2.12-4.2.1.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/libdaemon_2.12/0.0.12/libdaemon_2.12-0.0.12.pom
+2025.07.25 15:56:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/case-app_2.12/2.0.6/case-app_2.12-2.0.6.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/case-app_2.12/2.0.6/case-app_2.12-2.0.6.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.5/bloop-backend_2.12-2.0.5.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.1/scala-debug-adapter_2.12-4.2.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix_2.12/3.2.0/monix_2.12-3.2.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.5/bloop-shared_2.12-2.0.5.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.20/scala-library-2.12.20.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.12/logback-classic-1.5.12.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.1.0/bloop-config_2.12-2.1.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.5/bloop-backend_2.12-2.0.5.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix_2.12/3.2.0/monix_2.12-3.2.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.20/scala-library-2.12.20.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.5.12/logback-parent-1.5.12.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.5.12/logback-parent-1.5.12.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-java_2.12/3.2.0/monix-java_2.12-3.2.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.1.1/bsp4s_2.12-2.1.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.10.5/test-agent-1.10.5.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.30.14/jsoniter-scala-core_2.12-2.30.14.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.2/librarymanagement-ivy_2.12-1.10.2.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/3.2.0/monix-reactive_2.12-3.2.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.10.5/test-agent-1.10.5.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.23.0/log4j-core-2.23.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.30.14/jsoniter-scala-core_2.12-2.30.14.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/dev/dirs/directories/26/directories-26.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.2/librarymanagement-ivy_2.12-1.10.2.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.18.1/brave-5.18.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.1.1/bsp4s_2.12-2.1.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/3.2.0/monix-reactive_2.12-3.2.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.12.0/scala-collection-compat_2.12-2.12.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/dev/dirs/directories/26/directories-26.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.22/interface-1.0.22.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.9/parsers_2.12-4.9.9.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.18.1/brave-5.18.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.23.0/log4j-core-2.23.0.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+32/com-microsoft-java-debug-core-0.34.0+32.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.pom
+2025.07.25 15:56:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-catnap_2.12/3.2.0/monix-catnap_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.22/interface-1.0.22.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.12/0.1.12/unroll-annotation_2.12-0.1.12.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+32/com-microsoft-java-debug-core-0.34.0+32.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.20/scala-reflect-2.12.20.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-java_2.12/3.2.0/monix-java_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.12.0/scala-collection-compat_2.12-2.12.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.9/parsers_2.12-4.9.9.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-macros_2.12/2.13.3.2/jsoniter-scala-macros_2.12-2.13.3.2.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-tail_2.12/3.2.0/monix-tail_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-catnap_2.12/3.2.0/monix-catnap_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.9.0/pprint_2.12-0.9.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.12/0.1.12/unroll-annotation_2.12-0.1.12.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.17.2/zipkin-sender-urlconnection-2.17.2.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.20/scala-reflect-2.12.20.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/3.2.0/monix-eval_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-tail_2.12/3.2.0/monix-tail_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.17/zt-zip-1.17.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-macros_2.12/2.13.3.2/jsoniter-scala-macros_2.12-2.13.3.2.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_2.12/2.0.6/case-app-annotations_2.12-2.0.6.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.9.0/pprint_2.12-0.9.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.17.2/zipkin-sender-urlconnection-2.17.2.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/3.2.0/monix-eval_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/3.2.0/monix-execution_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.15/slf4j-api-2.0.15.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_2.12/2.0.6/case-app-annotations_2.12-2.0.6.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.17/zt-zip-1.17.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.15.0/jna-5.15.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_2.12/2.0.6/case-app-util_2.12-2.0.6.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/3.2.0/monix-execution_2.12-3.2.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.4/zinc_2.12-1.10.4.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.15/slf4j-api-2.0.15.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.15.0/jna-5.15.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_2.12/2.0.6/case-app-util_2.12-2.0.6.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.4/zinc_2.12-1.10.4.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.23.0/log4j-2.23.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.18.1/brave-parent-5.18.1.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/2.0.15/slf4j-parent-2.0.15.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.17.2/zipkin-reporter-parent-2.17.2.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/2.0.15/slf4j-parent-2.0.15.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.17.2/zipkin-reporter-parent-2.17.2.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.18.1/brave-parent-5.18.1.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.23.0/log4j-2.23.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-bom/2.0.15/slf4j-bom-2.0.15.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-bom/2.23.0/log4j-bom-2.23.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-bom/2.0.15/slf4j-bom-2.0.15.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-bom/2.23.0/log4j-bom-2.23.0.pom
+2025.07.25 15:56:20 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/codehaus/groovy/groovy-bom/3.0.20/groovy-bom-3.0.20.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/codehaus/groovy/groovy-bom/3.0.20/groovy-bom-3.0.20.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.9/trees_2.12-4.9.9.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.27.0/zipkin-2.27.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-brave/2.17.2/zipkin-reporter-brave-2.17.2.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/outr/scribe_2.12/3.5.5/scribe_2.12-3.5.5.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/outr/scribe_2.12/3.5.5/scribe_2.12-3.5.5.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.23.0/log4j-api-2.23.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.9/trees_2.12-4.9.9.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.17.2/zipkin-reporter-2.17.2.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-brave/2.17.2/zipkin-reporter-brave-2.17.2.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/implicitbox_2.12/0.2.0/implicitbox_2.12-0.2.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.2/librarymanagement-core_2.12-1.10.2.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/typelevel/cats-effect_2.12/2.1.3/cats-effect_2.12-2.1.3.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.23.0/log4j-api-2.23.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.5.0/fansi_2.12-0.5.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.17.2/zipkin-reporter-2.17.2.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.4/zinc-compile-core_2.12-1.10.4.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/implicitbox_2.12/0.2.0/implicitbox_2.12-0.2.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.4/zinc-persist_2.12-1.10.4.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.27.0/zipkin-2.27.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.2/librarymanagement-core_2.12-1.10.2.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-effect_2.12/2.1.3/cats-effect_2.12-2.1.3.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.4/zinc-persist_2.12-1.10.4.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jctools/jctools-core/2.1.2/jctools-core-2.1.2.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.4/zinc-compile-core_2.12-1.10.4.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.4/zinc-classfile_2.12-1.10.4.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.5.0/fansi_2.12-0.5.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.4/zinc-core_2.12-1.10.4.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jctools/jctools-core/2.1.2/jctools-core-2.1.2.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.4/zinc-classfile_2.12-1.10.4.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.4/zinc-core_2.12-1.10.4.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin-parent/2.27.0/zipkin-parent-2.27.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom
+2025.07.25 15:56:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin-parent/2.27.0/zipkin-parent-2.27.0.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.10.1/io_2.12-1.10.1.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/outr/moduload_2.12/1.1.5/moduload_2.12-1.1.5.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.3/util-cache_2.12-1.10.3.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.4/zinc-classpath_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.10.4/util-relation_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.10.4/util-control_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.3/util-cache_2.12-1.10.3.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/outr/moduload_2.12/1.1.5/moduload_2.12-1.1.5.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.4/zinc-classpath_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.10.1/io_2.12-1.10.1.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.20/scala-compiler-2.12.20.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.9/common_2.12-4.9.9.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.2.8/perfolation_2.12-1.2.8.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.10.4/util-relation_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.4/zinc-apiinfo_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/2.1.1/cats-core_2.12-2.1.1.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.20/scala-compiler-2.12.20.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.10.3/util-position_2.12-1.10.3.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.2.8/perfolation_2.12-1.2.8.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.4/zinc-apiinfo_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.4/zinc-persist-core-assembly-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/2.1.1/cats-core_2.12-2.1.1.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.9/common_2.12-4.9.9.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.4.4/launcher-interface-1.4.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.10.4/util-logging_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.10.4/util-control_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.4/zinc-persist-core-assembly-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.10.3/util-position_2.12-1.10.3.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.4.4/launcher-interface-1.4.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.10.4/util-logging_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/google/errorprone/error_prone_parent/2.27.0/error_prone_parent-2.27.0.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/google/errorprone/error_prone_parent/2.27.0/error_prone_parent-2.27.0.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.10.4/collections_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.4/compiler-bridge_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.10.4/core-macros_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/2.1.1/cats-macros_2.12-2.1.1.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.10.4/core-macros_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/2.1.1/cats-macros_2.12-2.1.1.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.4/compiler-bridge_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.10.4/collections_2.12-1.10.4.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.0/jansi-2.4.0.pom
+2025.07.25 15:56:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.10.4/util-position_2.12-1.10.4.pom
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.10.4/util-position_2.12-1.10.4.pom
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.0/jansi-2.4.0.pom
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/2.1.1/cats-macros_2.12-2.1.1.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.10.1/io_2.12-1.10.1.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.0/jansi-2.4.0.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-brave/2.17.2/zipkin-reporter-brave-2.17.2.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.30.14/jsoniter-scala-core_2.12-2.30.14.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.5/bloop-shared_2.12-2.0.5.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/2.1.1/cats-macros_2.12-2.1.1.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.5.0/fansi_2.12-0.5.0.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-brave/2.17.2/zipkin-reporter-brave-2.17.2.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.3/util-cache_2.12-1.10.3.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.5/bloop-shared_2.12-2.0.5.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.30.14/jsoniter-scala-core_2.12-2.30.14.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.10.4/util-relation_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.5.0/fansi_2.12-0.5.0.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.15/slf4j-api-2.0.15.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.10.4/util-relation_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jctools/jctools-core/2.1.2/jctools-core-2.1.2.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/2.1.1/cats-core_2.12-2.1.1.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.10.1/io_2.12-1.10.1.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.10.4/util-logging_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.3/util-cache_2.12-1.10.3.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.27.0/zipkin-2.27.0.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.15/slf4j-api-2.0.15.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.4/zinc-classpath_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.0/jansi-2.4.0.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.4/zinc-classfile_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.10.4/util-logging_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.27.0/zipkin-2.27.0.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.4/zinc_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jctools/jctools-core/2.1.2/jctools-core-2.1.2.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.10.4/util-position_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.4/zinc-classpath_2.12-1.10.4.jar
+2025.07.25 15:56:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.17.2/zipkin-reporter-2.17.2.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/outr/scribe_2.12/3.5.5/scribe_2.12-3.5.5.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.4/zinc-classfile_2.12-1.10.4.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.10.4/util-position_2.12-1.10.4.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.10.5/test-agent-1.10.5.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.4/zinc_2.12-1.10.4.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.2.8/perfolation_2.12-1.2.8.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.17.2/zipkin-reporter-2.17.2.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-tail_2.12/3.2.0/monix-tail_2.12-3.2.0.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.10.5/test-agent-1.10.5.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/3.2.0/monix-reactive_2.12-3.2.0.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/outr/scribe_2.12/3.5.5/scribe_2.12-3.5.5.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.12/logback-classic-1.5.12.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.2.8/perfolation_2.12-1.2.8.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.23.0/log4j-core-2.23.0.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.17/zt-zip-1.17.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.17/zt-zip-1.17.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.9/parsers_2.12-4.9.9.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.12/logback-classic-1.5.12.jar
+2025.07.25 15:56:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.23.0/log4j-api-2.23.0.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-tail_2.12/3.2.0/monix-tail_2.12-3.2.0.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/3.2.0/monix-reactive_2.12-3.2.0.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/libdaemon_2.12/0.0.12/libdaemon_2.12-0.0.12.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.9/parsers_2.12-4.9.9.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.9/common_2.12-4.9.9.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.23.0/log4j-api-2.23.0.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.4/zinc-persist_2.12-1.10.4.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/libdaemon_2.12/0.0.12/libdaemon_2.12-0.0.12.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/2.1.1/cats-core_2.12-2.1.1.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-macros_2.12/2.13.3.2/jsoniter-scala-macros_2.12-2.13.3.2.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.4/zinc-persist_2.12-1.10.4.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.20/scala-compiler-2.12.20.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-macros_2.12/2.13.3.2/jsoniter-scala-macros_2.12-2.13.3.2.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/case-app_2.12/2.0.6/case-app_2.12-2.0.6.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.4/zinc-persist-core-assembly-1.10.4.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.23.0/log4j-core-2.23.0.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.1.1/bsp4s_2.12-2.1.1.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.9/common_2.12-4.9.9.jar
+2025.07.25 15:56:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/case-app_2.12/2.0.6/case-app_2.12-2.0.6.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.5/bloop-frontend_2.12-2.0.5.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.1/scala-debug-adapter_2.12-4.2.1.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.1.1/bsp4s_2.12-2.1.1.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_2.12/2.0.6/case-app-util_2.12-2.0.6.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.1/scala-debug-adapter_2.12-4.2.1.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_2.12/2.0.6/case-app-annotations_2.12-2.0.6.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_2.12/2.0.6/case-app-util_2.12-2.0.6.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix_2.12/3.2.0/monix_2.12-3.2.0.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.5/bloop-frontend_2.12-2.0.5.jar
+2025.07.25 15:56:26 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.10.4/core-macros_2.12-1.10.4.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_2.12/2.0.6/case-app-annotations_2.12-2.0.6.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.12/0.1.12/unroll-annotation_2.12-0.1.12.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix_2.12/3.2.0/monix_2.12-3.2.0.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.10.4/core-macros_2.12-1.10.4.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.12/0.1.12/unroll-annotation_2.12-0.1.12.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.20/scala-reflect-2.12.20.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.4/zinc-compile-core_2.12-1.10.4.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.4/zinc-compile-core_2.12-1.10.4.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/3.2.0/monix-eval_2.12-3.2.0.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar
+2025.07.25 15:56:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.2/librarymanagement-ivy_2.12-1.10.2.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.2/librarymanagement-ivy_2.12-1.10.2.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.4/zinc-core_2.12-1.10.4.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/3.2.0/monix-eval_2.12-3.2.0.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/outr/moduload_2.12/1.1.5/moduload_2.12-1.1.5.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/outr/moduload_2.12/1.1.5/moduload_2.12-1.1.5.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.4/zinc-persist-core-assembly-1.10.4.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.18.1/brave-5.18.1.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.1.0/bloop-config_2.12-2.1.0.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.4/zinc-core_2.12-1.10.4.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.17.2/zipkin-sender-urlconnection-2.17.2.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.17.2/zipkin-sender-urlconnection-2.17.2.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.9/trees_2.12-4.9.9.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.1.0/bloop-config_2.12-2.1.0.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+32/com-microsoft-java-debug-core-0.34.0+32.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.18.1/brave-5.18.1.jar
+2025.07.25 15:56:29 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+32/com-microsoft-java-debug-core-0.34.0+32.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.10.4/util-control_2.12-1.10.4.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.20/scala-reflect-2.12.20.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.10.4/util-control_2.12-1.10.4.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-catnap_2.12/3.2.0/monix-catnap_2.12-3.2.0.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-catnap_2.12/3.2.0/monix-catnap_2.12-3.2.0.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.22/interface-1.0.22.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.4.4/launcher-interface-1.4.4.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.4.4/launcher-interface-1.4.4.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-java_2.12/3.2.0/monix-java_2.12-3.2.0.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-java_2.12/3.2.0/monix-java_2.12-3.2.0.jar
+2025.07.25 15:56:30 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/3.2.0/monix-execution_2.12-3.2.0.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.20/scala-compiler-2.12.20.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloading https://repo1.maven.org/maven2/dev/dirs/directories/26/directories-26.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.10.4/collections_2.12-1.10.4.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/dev/dirs/directories/26/directories-26.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.20/scala-library-2.12.20.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/3.2.0/monix-execution_2.12-3.2.0.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.10.4/collections_2.12-1.10.4.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/monix/implicitbox_2.12/0.2.0/implicitbox_2.12-0.2.0.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/typelevel/cats-effect_2.12/2.1.3/cats-effect_2.12-2.1.3.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/monix/implicitbox_2.12/0.2.0/implicitbox_2.12-0.2.0.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar
+2025.07.25 15:56:31 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.12.0/scala-collection-compat_2.12-2.12.0.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.12.0/scala-collection-compat_2.12-2.12.0.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.5/bloop-backend_2.12-2.0.5.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-effect_2.12/2.1.3/cats-effect_2.12-2.1.3.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.2/librarymanagement-core_2.12-1.10.2.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.5/bloop-backend_2.12-2.0.5.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.9.0/pprint_2.12-0.9.0.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.2/librarymanagement-core_2.12-1.10.2.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.4/compiler-bridge_2.12-1.10.4.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.9.0/pprint_2.12-0.9.0.jar
+2025.07.25 15:56:32 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.jar
+2025.07.25 15:56:33 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.jar
+2025.07.25 15:56:33 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.4/zinc-apiinfo_2.12-1.10.4.jar
+2025.07.25 15:56:33 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.4/compiler-bridge_2.12-1.10.4.jar
+2025.07.25 15:56:33 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.4/zinc-apiinfo_2.12-1.10.4.jar
+2025.07.25 15:56:33 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.20/scala-library-2.12.20.jar
+2025.07.25 15:56:34 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.22/interface-1.0.22.jar
+2025.07.25 15:56:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.9/trees_2.12-4.9.9.jar
+2025.07.25 15:56:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.jar
+2025.07.25 15:56:37 INFO  BSP server: Starting compilation server
+2025.07.25 15:56:39 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.pom
+2025.07.25 15:56:39 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.pom
+2025.07.25 15:56:39 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar
+2025.07.25 15:56:41 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar
+2025.07.25 15:56:41 INFO  time: Connected to build server in 24s
+2025.07.25 15:56:41 INFO  Connected to Build server: scala v1.5.4
+2025.07.25 15:56:41 INFO  Created report: Optional.empty
+2025.07.25 15:56:41 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 15:56:41 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 15:56:41 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 15:56:41 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 15:56:41 INFO  time: Imported build in 0.21s
+2025.07.25 15:56:41 INFO  compiling cursor workspace_963230e4ee (2 scala sources)
+2025.07.25 15:56:45 INFO  compiling cursor workspace_963230e4ee (2 scala sources)
+2025.07.25 15:57:00 INFO  time: indexed workspace in 19s
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala
+2025.07.25 15:57:00 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala
+2025.07.25 15:57:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.25 15:57:00 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:56 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:56 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:56 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.07.25 16:54:56 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:56 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:56 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.07.25 16:54:56 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:56 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:56 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.07.25 16:54:56 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:56 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.07.25 16:54:56 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:57 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:54:57 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.07.25 16:55:13 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:13 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:13 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:13 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:13 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:13 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:13 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:13 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:13 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:13 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:13 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:14 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:13 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:13 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:15 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:15 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:22 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:23 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:23 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:50 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:51 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:51 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:55 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:55 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:56 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala
+2025.07.25 16:55:55 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:55 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_por_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:55:56 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 16:55:56 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 16:55:56 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 16:55:56 INFO  compiling cursor workspace_963230e4ee (3 scala sources)
+2025.07.25 16:55:56 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 16:55:57 INFO  time: Imported build in 0.97s
+2025.07.25 16:55:56 INFO  compiling cursor workspace_963230e4ee (3 scala sources)
+2025.07.25 16:56:00 INFO  time: indexed workspace in 2.29s
+2025.07.25 16:56:00 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.25 16:56:07 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:07 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala
+2025.07.25 16:56:07 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:08 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:08 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala
+2025.07.25 16:56:08 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:07 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala
+2025.07.25 16:56:08 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:08 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:07 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:08 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala
+2025.07.25 16:56:08 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:07 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala
+2025.07.25 16:56:09 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 16:56:10 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala
+2025.07.25 16:56:10 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:03:25 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:03:25 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:03:25 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala
+2025.07.25 17:03:39 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:03:39 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.07.25 17:03:39 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:04:47 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:04:47 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:04:47 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala
+2025.07.25 17:05:05 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:05 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:05 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.07.25 17:05:34 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.07.25 17:05:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:34 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.07.25 17:05:35 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:36 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:05:36 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala
+2025.07.25 17:09:27 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala
+2025.07.25 17:09:27 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:27 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala
+2025.07.25 17:09:28 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:28 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala
+2025.07.25 17:09:28 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:34 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala
+2025.07.25 17:09:34 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala
+2025.07.25 17:09:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:34 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_modificada.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.25 17:09:35 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 17:09:35 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 17:09:35 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 17:09:35 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.25 17:09:35 INFO  time: Imported build in 0.14s
+2025.07.25 17:09:35 INFO  compiling cursor workspace_963230e4ee (5 scala sources)
+2025.07.25 17:09:37 INFO  time: indexed workspace in 1.92s
+2025.07.25 17:09:37 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.25 17:09:37 INFO  compiling cursor workspace_963230e4ee (5 scala sources)
+2025.07.30 15:32:43 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 15:32:43 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 15:32:43 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_dia_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 15:32:43 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 15:32:43 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:14 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:14 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:14 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.07.30 19:28:14 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:14 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:14 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:28:41 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:28:41 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:41 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:28:42 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:42 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:28:42 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:48 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:48 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Exception in thread "metals-watch-callback-thread" 2025.07.30 19:28:48 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+java.nio.file.NoSuchFileException: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:465)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.toInputFromBuffers(MetalsEnrichments.scala:632)
+	at scala.meta.internal.metals.Compilers.originInput$1(Compilers.scala:243)
+	at scala.meta.internal.metals.Compilers.$anonfun$didChange$2(Compilers.scala:259)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.Compilers.$anonfun$didChange$1(Compilers.scala:258)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.didChange(Compilers.scala:246)
+	at scala.meta.internal.metals.MetalsLspService.onCreate(MetalsLspService.scala:391)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChangeWatchedFiles(ProjectMetalsLspService.scala:483)
+	at scala.meta.internal.metals.ProjectMetalsLspService.$anonfun$fileWatcher$3(ProjectMetalsLspService.scala:108)
+	at scala.meta.internal.metals.ProjectMetalsLspService.$anonfun$fileWatcher$3$adapted(ProjectMetalsLspService.scala:107)
+	at scala.meta.internal.metals.watcher.ProjectFileWatcher$$anon$1.loop(ProjectFileWatcher.scala:199)
+	at scala.meta.internal.metals.watcher.ProjectFileWatcher$$anon$1.run(ProjectFileWatcher.scala:203)
+2025.07.30 19:28:48 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:28:51 INFO  compiling cursor workspace_963230e4ee (5 scala sources)
+2025.07.30 19:28:51 INFO  compiling cursor workspace_963230e4ee (5 scala sources)
+2025.07.30 19:29:06 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:06 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:06 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:29:06 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:06 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:06 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:29:06 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:06 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:06 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:29:06 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:06 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:29:07 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:08 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:08 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:29:18 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:18 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:18 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala
+2025.07.30 19:29:18 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:18 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_custos_corrigida.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.30 19:29:19 INFO  compiling cursor workspace_963230e4ee (5 scala sources)
+2025.07.30 19:29:19 INFO  compiling cursor workspace_963230e4ee (5 scala sources)
+2025.07.30 20:28:46 INFO  Shutting down server
+2025.07.30 20:28:46 INFO  shutting down Metals
+2025.07.30 20:28:46 INFO  Shut down connection with build server.
+2025.07.30 20:28:46 INFO  Exiting server
+2025.07.31 16:22:15 INFO  Started: Metals version 1.6.0 in folders '/Users/pedro.magalhaes/Desktop/Cursor Workspace' for client Cursor 1.99.3.
+2025.07.31 16:22:16 INFO  Attempting to connect to the build server...
+2025.07.31 16:22:16 INFO  Running BSP server List(/opt/homebrew/Cellar/scala/3.6.4/libexec/libexec/scala-cli.jar, --cli-default-scala-version, 3.6.4, --repository, file:///opt/homebrew/Cellar/scala/3.6.4/libexec/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/pedro.magalhaes/Desktop/Cursor Workspace/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/pedro.magalhaes/Desktop/Cursor Workspace/.scala-build/ide-launcher-options.json, --envs-file, /Users/pedro.magalhaes/Desktop/Cursor Workspace/.scala-build/ide-envs.json, /Users/pedro.magalhaes/Desktop/Cursor Workspace)
+2025.07.31 16:22:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/bsp.trace.json or /Users/pedro.magalhaes/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.07.31 16:22:22 INFO  time: Connected to build server in 5.71s
+2025.07.31 16:22:22 INFO  Connected to Build server: scala v1.5.4
+2025.07.31 16:22:22 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.31 16:22:22 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.31 16:22:22 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.31 16:22:22 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/Users/pedro.magalhaes/Desktop/Cursor Workspace/.metals/.reports/bloop/2025-07-25/r_Empty build targets...._15-56-41-543.md")
+2025.07.31 16:22:22 INFO  time: Imported build in 0.11s
+2025.07.31 16:22:22 INFO  compiling cursor workspace_963230e4ee (5 scala sources)
+2025.07.31 16:22:23 INFO  compiling cursor workspace_963230e4ee (5 scala sources)
+2025.07.31 16:22:24 INFO  time: indexed workspace in 2.39s
+2025.08.01 14:25:30 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:30 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:30 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.08.01 14:25:31 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+ago. 01, 2025 2:25:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 11
+ago. 01, 2025 2:25:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 7
+2025.08.01 14:25:31 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:33 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:33 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:33 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.08.01 14:25:33 INFO  time: code lens generation in 1.26s
+2025.08.01 14:25:33 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:33 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:33 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.08.01 14:25:36 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:36 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:36 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.08.01 14:25:36 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:36 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.08.01 14:25:36 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:37 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:37 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:37 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.08.01 14:25:37 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:37 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:37 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala
+2025.08.01 14:25:38 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:38 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:38 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_completa_dia.scala
+2025.08.01 14:25:38 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:38 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:39 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_por_dia.scala
+2025.08.01 14:25:38 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_spark_simples.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:39 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:39 WARN  no build target for: /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala
+2025.08.01 14:25:38 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.08.01 14:25:39 INFO  no build target found for /Users/pedro.magalhaes/Desktop/Cursor Workspace/analise_retorno_spark.scala. Using presentation compiler with project's scala-library version: 3.3.6
